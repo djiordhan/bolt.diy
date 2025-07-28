@@ -44,7 +44,7 @@ export const STARTER_TEMPLATES: Template[] = [
     name: 'Formbird Angular Starter',
     label: 'Formbird Angular Starter',
     description: 'A starter template for building Formbird components with Angular',
-    githubRepo: 'formbird/react-angular-starter',
+    githubRepo: 'formbird/angular-component-starter',
     tags: ['formbird', 'web', 'angular', 'component', 'starter'],
     icon: 'i-bolt:angular',
   },
